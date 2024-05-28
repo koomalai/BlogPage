@@ -1,0 +1,6 @@
+.hover:hover{
+   color: lightblue;
+}
+.selected.Mui-selected{
+    color: white;
+}
