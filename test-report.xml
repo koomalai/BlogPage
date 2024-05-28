@@ -1,0 +1,7 @@
+<testExecutions version="1">
+  <file path="src\Pages\AddOrCreateBlog\_Tests_\AddBlogApi.test.tsx">
+    <testCase name="Add Blog Api - Should navigate to Add blogs page when Add Blog tab is clicked" duration="205" />
+    <testCase name="Add Blog Api - should call handleAddBlog with server not good on form submit" duration="210" />
+    <testCase name="Add Blog Api - should call handleAddBlog with correct parameters on form submit and direct to blog page" duration="132" />
+  </file>
+</testExecutions>
